@@ -6,6 +6,3 @@ require_relative '../kickstarter_scraper'
 RSpec.configure do |config|
   # config here
 end
-
-
-  
